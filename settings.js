@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "9466910147",
-  SUDO_NUMBERS : "94715166712,94719574492",
+  OWNER_NUMBER: "94766910147",
+  SUDO_NUMBERS : "94766910147,94774457812",
   OWNER_NAME: "『 𝙼𝚁 SADU 』",
   BOT_NAME : "INZANE WA BOT",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -74,7 +74,7 @@ module.exports = {
   },
   AUTO_STICKER : false,
   STICKERS : {
-    "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
+    "hutto" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
